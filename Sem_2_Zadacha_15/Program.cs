@@ -25,5 +25,5 @@ if (dnum == 1)
     Console.WriteLine($"{dnum} -> ДА, это выходной");
 } else
 {
-    Console.WriteLine($"Ошибка ввода, надо от 1 до 7 дней в неделе");
+    Console.WriteLine($"{dnum} -> Ошибка ввода, надо от 1 до 7 дней в неделе");
 }
